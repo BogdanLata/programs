@@ -13,6 +13,8 @@ Created on Fri Nov 17 20:11:23 2023
 
 @author: dan
 """
+# https://thefiddler.substack.com/p/can-you-flip-the-coins-exactly-as
+
 import os
 import time
 
